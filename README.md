@@ -1,16 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/UFMacR-5)
-# GGTeamMobile's mobile app trop cool
-Voici la meilleure application mobile que le monde ai jamais connu. Elle permet de faire des trucs cool et pleins d'autre truc moins cool
 
-Dans un monde parfait, seule cette application existe
+# Application en flutter
 
+Projet d'équipe lors de la cinquième session de ma technique en informatique. 
 
-| Programmeur trop ouf  | Son nom trop cool  |
-|---|---|
-| Claudel-D-Roy  | Claudel D Roy  |
-| yalaoumbaca  | Gabriel Bruneau  |
-| FrancoisLampron  | François Lampron  |
-| thatscringebro | Merlin Gélinas |
+Le projet est une application mobile en flutter. 
 
 Connexion BD : 
 
