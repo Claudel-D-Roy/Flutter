@@ -1,6 +1,6 @@
 # Flutter Application
 
-Team project during the fifth session of my computer science program.
+Team project during the fifth session of my software development program.
 
 The project is a mobile application built with Flutter.
 
