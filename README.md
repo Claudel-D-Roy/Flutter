@@ -4,6 +4,8 @@ Team project during the fifth session of my computer science program.
 
 The project is a mobile application built with Flutter.
 
+The project was a team effort.
+
 **Database Connection:**
 
 **Admin:**
